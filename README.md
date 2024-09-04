@@ -56,11 +56,7 @@ kubectl get pod -o wide
 docker run -d -p 8080:8080 
 ```
 
-```yaml
-apiVersion: v1
-kind: deployment
-metadata:
-  name: kube-deploy
-spec
+```python
+print('Hello World')
 ```
 
