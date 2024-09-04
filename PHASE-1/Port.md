@@ -1,4 +1,4 @@
-| ------- | ---- | ---- | ----|
+
 | type | protocol | port range | source |
 ---      ---       ----          ---
 | SMTP | TCP |   25         |  0.0.0.0/0 |
